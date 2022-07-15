@@ -1,7 +1,7 @@
 # ubot
 
 ubot 由全称 uview-bot 缩写而来  
-顾名思义当然是属于 uview 生态下的一个 bot 辣
+顾名思义当然是专属于 uview 生态下的一个 bot 辣
 
 ---
 
@@ -17,22 +17,22 @@ Visit our site: [https://www.uviewui.com/](https://www.uviewui.com/)
 git clone https://github.com/akun2333/ubot
 cd ubot
 pnpm i
-# change option.login
+# change option
 pnpm dev
 ```
 
 ---
 
-# 技术选型
+# Framework
 
 - nestJs
 - oicq
 
 ---
 
-# 业务设计
+# Design
 
-- ## Module
+- ## Shared
 
   - Message Queue
 
